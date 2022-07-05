@@ -1,0 +1,35 @@
+
+
+admin@admin.com
+
+password es
+123456
+
+
+https://xonaplay.com/panel/version.php?tipo=consulta
+
+
+https://adminxp.xonastore.com/
+
+
+
+
+
+<?php
+	// Zona horaria del servidor
+	date_default_timezone_set("America/New_York");
+?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

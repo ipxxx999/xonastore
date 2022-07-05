@@ -1,0 +1,10 @@
+sube la base de datos a tus servidor
+y despues ve a
+
+ve a http://tusitioweb.com/admin/
+
+admin@admin.com
+
+password es
+123456
+
